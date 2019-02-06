@@ -51,7 +51,14 @@
                                 <state key="normal" title="Button"/>
                                 <connections>
                                     <action selector="backAction:" destination="H9d-eg-vVQ" eventType="touchUpInside" id="mHl-cV-1rf"/>
-                                    <segue destination="B7P-pu-18V" kind="show" id="dRb-7v-7AJ"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QdY-an-kLw">
+                                <rect key="frame" x="164" y="400" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <segue destination="B7P-pu-18V" kind="show" id="4fz-QY-4Nv"/>
                                 </connections>
                             </button>
                         </subviews>
