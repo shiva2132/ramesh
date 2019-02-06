@@ -25,6 +25,9 @@
                                 <state key="normal" title="I am the home here">
                                     <color key="titleColor" red="0.87888642130000005" green="0.1314733324" blue="0.0075933884199999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
+                                <connections>
+                                    <segue destination="tM4-hh-Q9S" kind="show" id="ofz-rU-yGo"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
