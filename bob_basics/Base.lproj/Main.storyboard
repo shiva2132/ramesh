@@ -48,6 +48,7 @@
                                 <state key="normal" title="Button"/>
                                 <connections>
                                     <action selector="backAction:" destination="H9d-eg-vVQ" eventType="touchUpInside" id="mHl-cV-1rf"/>
+                                    <segue destination="B7P-pu-18V" kind="show" id="dRb-7v-7AJ"/>
                                 </connections>
                             </button>
                         </subviews>
