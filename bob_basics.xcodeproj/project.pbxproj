@@ -13,6 +13,7 @@
 		BB5A3D2621E5C9BF00875A55 /* bob_basics.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BB5A3D2421E5C9BF00875A55 /* bob_basics.xcdatamodeld */; };
 		BB5A3D2821E5C9C600875A55 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB5A3D2721E5C9C600875A55 /* Assets.xcassets */; };
 		BB5A3D2B21E5C9C600875A55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB5A3D2921E5C9C600875A55 /* LaunchScreen.storyboard */; };
+		BB6C5B26220AE5D8007D07EF /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6C5B25220AE5D8007D07EF /* secondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BB5A3D2721E5C9C600875A55 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BB5A3D2A21E5C9C600875A55 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BB5A3D2C21E5C9C600875A55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB6C5B25220AE5D8007D07EF /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				BB5A3D1D21E5C9BE00875A55 /* AppDelegate.swift */,
 				BB5A3D1F21E5C9BE00875A55 /* ViewController.swift */,
+				BB6C5B25220AE5D8007D07EF /* secondViewController.swift */,
 				BB5A3D2121E5C9BF00875A55 /* Main.storyboard */,
 				BB5A3D2721E5C9C600875A55 /* Assets.xcassets */,
 				BB5A3D2921E5C9C600875A55 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB6C5B26220AE5D8007D07EF /* secondViewController.swift in Sources */,
 				BB5A3D2621E5C9BF00875A55 /* bob_basics.xcdatamodeld in Sources */,
 				BB5A3D2021E5C9BE00875A55 /* ViewController.swift in Sources */,
 				BB5A3D1E21E5C9BE00875A55 /* AppDelegate.swift in Sources */,
